@@ -78,5 +78,6 @@
 
 # 참고 링크 및 코드 개선
 ```
-
+http://kocw-n.xcache.kinxcdn.com/data/document/2021/kumoh/leehaeyeoun0824/21.pdf
+모폴로지 연산에 대한 링크를 첨부합니다.
 ```
